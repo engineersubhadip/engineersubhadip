@@ -8,7 +8,7 @@
 
     📍 Improving Customer Loyalty
     📍 Choice and Convinience
-     and few more.
+     and many more.
     
 <!--
 **gautoma/gautoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
