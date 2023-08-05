@@ -6,8 +6,11 @@
 
 📌 I wholeheartedly believe in the adage, "Don't find customers for your product; find products for your customers." I've spent my career in an industry where the customer always comes first, so I understand what users look for when they visit a website. As a result, I've created a few end-to-end real-world projects for your reference. In order to provide an exceptional user experience, I have focused my audience on the following data elements:
 
-    📍 Improving Customer Loyalty
-    📍 Choice and Convinience
+    📍 Simple user interface
+    📍 Prominent and Functional Search
+    📍 Maintained a strong visual hierarchy
+    📍 Maintained Consistenct
+    📍 Communicative System
      and many more.
     
 <!--
