@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-📌 I am a Frontend Engineer, currently working on exciting real work projects which cater to seamless user experience and customer satisfaction.
+📌 I am a Frontend Engineer currently working on fascinating real-world projects that focus on seamless user experience and customer satisfaction.
 
-📌 I also have 3 years of work experience working as a Software Engineer where I customised end to end intricate test scenarios which tested UI performance and reliability, business functionality and many more. The through exposure in the field of testing ensured near bug-free application and customer gratification both of which resulted in lower churn rate.
+📌 In my three years as a software engineer, I have customized and carried out complex test scenarios that examined UI dependability and performance as well as business functionality, among other things. The extensive experience in this area guaranteed an almost bug-free application and user satisfaction, both of which decreased the churn rate.
 
-📌 I strongly believe in the philosophy that "Don't find customers for your product rather find products for your customers". Throughout all my years of working in a customer-centric domain, I know what customers generally look for when they visit a website. So I have curated a few real world end-to-end projects for your reference. I have targeted my audience primarily on the following data points:
+📌 I firmly ascribe to the maxim, "Don't find customers for your product; find products for your customers." I've spent my career working in a field where the client comes first, so I understand what users often seek when they visit a website. Therefore, I have built a few end-to-end real-world projects for your reference. I have focused my audience on the following data elements in order to achieve an outstanding user experience across all of these initiatives:
 
     📍 Improving Customer Loyalty
     📍 Choice and Convinience
