@@ -13,6 +13,13 @@
     📍 Communicative System
      and many more.
 
+📌 Here is my relevant tech stack:
+
+  📍 Languages: JavaScript, React, TypeScript, Python
+  📍 Front-End Development: HTML, CSS, JavaScript, React, TypeScript, Redux
+  📍 Back-End Development: NodeJS, MongoDB
+
+
 📌 Here is the link to my Portfolio.
 
 📌 Contact Me :
