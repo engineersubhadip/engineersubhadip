@@ -16,7 +16,9 @@
 📌 Here is my relevant tech stack:
 
   📍 Languages: JavaScript, React, TypeScript, Python
+  
   📍 Front-End Development: HTML, CSS, JavaScript, React, TypeScript, Redux
+  
   📍 Back-End Development: NodeJS, MongoDB
 
 
