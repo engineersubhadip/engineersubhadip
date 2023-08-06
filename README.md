@@ -7,10 +7,15 @@
 📌 I wholeheartedly believe in the proverb, "Don't find customers for your product; find products for your customers." I've spent my career in an industry where the client always comes first, so I know what users seek when they visit a website. As a result, I've created end-to-end real-world projects to showcase my interests and strongholds. In order to create an amazing user experience, I have largely focused my skill set on the following areas:
 
     📍 Simple user interface
+    
     📍 Prominent and Functional Search
+    
     📍 Maintained a strong visual hierarchy
+    
     📍 Maintained Consistency
+    
     📍 Communicative System
+    
      and many more.
 
 📌 Here is my relevant tech stack:
