@@ -2,7 +2,7 @@
 
 📌 I am a Frontend Engineer currently working on fascinating real-world projects that focus on seamless user experience and satisfaction.
 
-📌 In my three years as a software engineer, I have customized and carried out complex test scenarios that examined UI dependability and performance as well as business functionality, among other things. The extensive experience in this area guaranteed an almost bug-free application and user satisfaction, both of which decreased the customer churn rate.
+📌 In my three years as a software engineer, I have customized and carried out complex test scenarios that examined UI dependability and performance as well as business functionality, among other things. The extensive experience in this area guaranteed an almost bug-free application and user satisfaction, both of which resulted in decreased the customer churn rate.
 
 📌 I wholeheartedly believe in the proverb, "Don't find customers for your product; find products for your customers." I've spent my career in an industry where the client always comes first, so I know what users seek when they visit a website. As a result, I've created end-to-end real-world projects to showcase my interests and strongholds. In order to create an amazing user experience, I have largely focused my skill set on the following areas:
 
