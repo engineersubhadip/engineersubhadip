@@ -22,9 +22,9 @@
 
     📍 Languages: JavaScript, React, TypeScript, Python
   
-    📍 Front-End Development: HTML, CSS, JavaScript, React, TypeScript, Redux
+    📍 Front-End Development: HTML, CSS, JavaScript, React, TypeScript, Redux, NextJs, Bootstrap, MUI
   
-    📍 Back-End Development: NodeJS, MongoDB
+    📍 Back-End Development: NodeJS, MongoDB, GraphQL
 
 
 📌 Here is the link to my Portfolio.
