@@ -1,50 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Subhadip 👋
 
-📌 I am a Frontend Engineer currently working on fascinating real-world projects that focus on seamless user experience and satisfaction.
+## About Me
 
-📌 In my three years as a software engineer, I have customized and carried out complex test scenarios that examined UI dependability and performance as well as business functionality, among other things. The extensive experience in this area guaranteed an almost bug-free application and user satisfaction, both of which resulted in a decreased customer churn rate.
+I'm an experienced Automation Tester specializing in web UI automation. I have a strong background in developing and maintaining robust testing frameworks using tools like Selenium WebDriver, TestNG, and Java. My expertise includes:
 
-📌 I wholeheartedly believe in the proverb, "Don't find customers for your product; find products for your customers." I've spent my career in an industry where the client always comes first, so I know what users seek when they visit a website. As a result, I've created end-to-end real-world projects to showcase my interests and strongholds. In order to create an amazing user experience, I have largely focused my skill set on the following areas:
+- **Test Automation**: Designing and implementing automated test scripts to ensure software quality and reliability.
+- **Cross-Browser Testing**: Ensuring applications function seamlessly across various browsers, including Chrome, Edge, and Firefox.
+- **CI/CD Integration**: Configuring testing frameworks within Continuous Integration and Continuous Deployment pipelines for efficient and automated testing processes.
+- **Agile Methodologies**: Actively participating in Agile processes such as Sprint planning, daily stand-ups, and retrospectives to deliver high-quality software.
 
-    📍 Simple user interface
-    
-    📍 Prominent and Functional Search
-    
-    📍 Maintained a strong visual hierarchy
-    
-    📍 Maintained Consistency
-    
-    📍 Communicative System
-    
-     and many more.
+## Skills
 
-📌 Here is my relevant tech stack:
+- **Programming Languages**: Java
+- **Testing Tools**: Selenium WebDriver, TestNG, JUnit
+- **Version Control**: Git, GitHub
+- **CI/CD Tools**: Jenkins, GitHub Actions
+- **Project Management**: JIRA
 
-    📍 Languages: JavaScript, React, TypeScript, Python
-  
-    📍 Front-End Development: HTML, CSS, JavaScript, React, TypeScript, Redux, NextJs, Bootstrap, MUI
-  
-    📍 Back-End Development: NodeJS, MongoDB, GraphQL
+## Contact Me
 
+Feel free to reach out to me via:
 
-📌 Here is the link to my Portfolio.
+- **Email**: subhadipdas911@gmail.com
+- **LinkedIn**: linkedin.com/in/subhadip95
 
-📌 Contact Me :
+Looking forward to connecting with you!
 
-
-
-    
-<!--
-**gautoma/gautoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
