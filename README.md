@@ -22,7 +22,6 @@ I'm an experienced Automation Tester specializing in web UI automation. I have a
 Feel free to reach out to me via:
 
 - **Email**: subhadipdas911@gmail.com
-- **LinkedIn**: linkedin.com/in/subhadip95
 
 Looking forward to connecting with you!
 
